@@ -22,9 +22,15 @@ async function solve(file) {
   // wait for reader to close
   await once(reader, 'close');
 
+  // sort elves
+  elves = elves.sort();
+
+  // slice off highest elf to get highest value
+  console.log('top elf has: ' + elves.slice(-1)[0]);
+
   // sort, slice, and reduce to sum
-  console.log('top 3 elves have: ' + elves.sort().slice(-3).reduce((a, e) => a + e));
-  
+  console.log('top 3 elves have: ' + elves.slice(-3).reduce((a, e) => a + e));
+
 }
 
 solve(process.argv[2]);
