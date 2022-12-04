@@ -12,3 +12,7 @@ Nothing too exciting today. It certainly was a thing that could be coded.
 ## Day 3 - Javascript
 
 Learned a bit about how classes work in Javascript, then didn't use it at all for part 2.
+
+## Day 4 - Javascript
+
+Well that was pretty easy.
