@@ -16,3 +16,11 @@ Learned a bit about how classes work in Javascript, then didn't use it at all fo
 ## Day 4 - Javascript
 
 Well that was pretty easy.
+
+## Day 5 - Javascript
+
+The hardest part was definitely just parsing the input.
+
+## Day 6 - Javascript
+
+Nothing too difficult in this one either.
