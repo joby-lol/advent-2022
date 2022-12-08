@@ -32,3 +32,7 @@ As usual I skipped doing it the *right* way. Instead of building a tree like I t
 Then as I read each file line I could loop through that array and add its size to all of their counters.
 
 I was basically just done (a filter and sum away) once I hit the bottom of reading the file.
+
+## Day 8 - PHP CLI
+
+I tried using a PHP shell script today. It worked pretty well. I'm actually forming the opinion that PHP is a top-tier shell scripting language.
