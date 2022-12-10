@@ -36,3 +36,11 @@ I was basically just done (a filter and sum away) once I hit the bottom of readi
 ## Day 8 - PHP CLI
 
 I tried using a PHP shell script today. It worked pretty well. I'm actually forming the opinion that PHP is a top-tier shell scripting language.
+
+## Day 9 - Javascript
+
+This one actually came together pretty quick for me. I built part one with a class for handling one knot following another, and it was really easy to generalize into as many knots as I liked.
+
+## Day 10 - Javascript
+
+Also wasn't that hard, once I figured out what on Earth the instructions for part two were trying to express. The coding on this one was easy enough. On part two I think I spent like five times as long trying to make sense of the instructions as I did coding it up once I figured out what they meant.
