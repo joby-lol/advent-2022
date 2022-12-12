@@ -44,3 +44,7 @@ This one actually came together pretty quick for me. I built part one with a cla
 ## Day 10 - Javascript
 
 Also wasn't that hard, once I figured out what on Earth the instructions for part two were trying to express. The coding on this one was easy enough. On part two I think I spent like five times as long trying to make sense of the instructions as I did coding it up once I figured out what they meant.
+
+## Day 11 - Javascript
+
+Part one was easy. Part two made me think.
