@@ -48,3 +48,11 @@ Also wasn't that hard, once I figured out what on Earth the instructions for par
 ## Day 11 - Javascript
 
 Part one was easy. Part two made me think.
+
+## Day 12 - PHP
+
+I took my sweet time with this one and didn't do anything fancy, but it works.
+
+# Day 13 - PHP
+
+Only half-finished, but I don't know if I'm gonna keep doing these. I'm kind of bored and frustrated with the instructions.
